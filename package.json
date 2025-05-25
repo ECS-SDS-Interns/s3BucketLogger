@@ -1,0 +1,36 @@
+{
+  "name": "s3-bucket-logger",
+  "version": "1.0.0",
+  "description": "GUI application to log S3 bucket contents to a file",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "keywords": [
+    "aws",
+    "s3",
+    "logger",
+    "electron"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^17.0.0",
+    "electron-builder": "^22.14.13"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1048.0"
+  },
+  "build": {
+    "appId": "com.example.s3bucketlogger",
+    "productName": "S3 Bucket Logger",
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "assets/aws.ico"
+    }
+  }
+}
