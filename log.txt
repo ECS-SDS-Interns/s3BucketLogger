@@ -1,285 +1,687 @@
 S3 Bucket Contents: my-file-storage-s3
-Generated on: 2025-05-24T05:02:16.569Z
+Generated on: 2025-05-26T09:17:17.328Z
 
-1. Key: New Text Document.txt
-   Last Modified: Thu Mar 13 2025 09:35:24 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+1. Key: 240123-BPUL-0001/240123-BPUL-00011235.png
+   Last Modified: Mon May 26 2025 17:03:16 GMT+0800 (Taipei Standard Time)
+   Size: 272131 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "2b7aff618a85f33abf7a5054a64c31cd"
 
-2. Key: TOMORROWNOTES 1.txt
-   Last Modified: Thu Mar 13 2025 09:35:25 GMT+0800 (China Standard Time)
-   Size: 8095 bytes
+2. Key: 240123-BPUL-0001/240123-BPUL-00011248.png
+   Last Modified: Mon May 26 2025 17:03:17 GMT+0800 (Taipei Standard Time)
+   Size: 291122 bytes
    Storage Class: STANDARD
-   ETag: "bc94b9422a0bc65e5c8cf55c4920a586"
+   ETag: "70bfe9acb2ae7371bac04e21f8294a61"
 
-3. Key: TOMORROWNOTES 2.txt
-   Last Modified: Thu Mar 13 2025 09:35:26 GMT+0800 (China Standard Time)
-   Size: 1103 bytes
+3. Key: 240123-BPUL-0001/240123-BPUL-000172506959.png
+   Last Modified: Mon May 26 2025 17:03:18 GMT+0800 (Taipei Standard Time)
+   Size: 520244 bytes
    Storage Class: STANDARD
-   ETag: "c889fb708571290a975ab86fb5e97f92"
+   ETag: "a9eeda164b766f448e64eec1d6154dd2"
 
-4. Key: TOMORROWNOTES 3.txt
-   Last Modified: Thu Mar 13 2025 09:35:26 GMT+0800 (China Standard Time)
-   Size: 797 bytes
+4. Key: 240123-BPUL-0001/240123-BPUL-000172506961.png
+   Last Modified: Mon May 26 2025 17:03:19 GMT+0800 (Taipei Standard Time)
+   Size: 561067 bytes
    Storage Class: STANDARD
-   ETag: "fb226706a8c311df012787d805ad04c9"
+   ETag: "22470ef6974b82dd376a969757d5aa36"
 
-5. Key: ererererer.txt
-   Last Modified: Thu Mar 13 2025 09:47:37 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+5. Key: 240123-BPUL-0001/240123-BPUL-0001POSPowerSupply(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:22 GMT+0800 (Taipei Standard Time)
+   Size: 135960 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "71b6e2d1173244bca95ef935736ebdec"
 
-6. Key: ererererererereddgf.txt
-   Last Modified: Thu Mar 13 2025 09:47:37 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+6. Key: 240123-BPUL-0001/240123-BPUL-0001POSSim(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:23 GMT+0800 (Taipei Standard Time)
+   Size: 88362 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "da4c6947e1728fd29f46732b1573a0ea"
 
-7. Key: folders/rtrtrtrt.txt
-   Last Modified: Thu Mar 13 2025 10:47:36 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+7. Key: 240123-BPUL-0001/240123-BPUL-0001POSTerminal(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:23 GMT+0800 (Taipei Standard Time)
+   Size: 134193 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "fe2f96b907fb91790453a20f58409fe3"
 
-8. Key: folders/sedssdwfsdv.txt
-   Last Modified: Thu Mar 13 2025 10:47:36 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+8. Key: 240123-BPUL-0001/FESignature.jpg
+   Last Modified: Mon May 26 2025 17:03:24 GMT+0800 (Taipei Standard Time)
+   Size: 40487 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "f0d780a3a0845ca5faf0cb4e3e2a4aaa"
 
-9. Key: woop/
-   Last Modified: Thu Mar 13 2025 10:27:11 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+9. Key: 240123-BPUL-0001/MerchantSignature.jpg
+   Last Modified: Mon May 26 2025 17:03:25 GMT+0800 (Taipei Standard Time)
+   Size: 33916 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "be8fdb5b817172383a09865170b8e193"
 
-10. Key: woop/HAHAHAHAHA.txt
-   Last Modified: Fri Mar 14 2025 10:02:40 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+10. Key: 240123-BPUL-0002/240123-BPUL-00021.png
+   Last Modified: Mon May 26 2025 17:03:26 GMT+0800 (Taipei Standard Time)
+   Size: 224888 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "694ea4dbfbc719b64198e226a03e6a16"
 
-11. Key: woop/New Text Document.txt
-   Last Modified: Fri Mar 14 2025 11:04:41 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+11. Key: 240123-BPUL-0002/240123-BPUL-00021239.png
+   Last Modified: Mon May 26 2025 17:03:26 GMT+0800 (Taipei Standard Time)
+   Size: 228036 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "9d72d514546f38829d39f16f769afc49"
 
-12. Key: woop/PDFsam_merge.pdf
-   Last Modified: Fri Mar 14 2025 11:09:41 GMT+0800 (China Standard Time)
-   Size: 277468 bytes
+12. Key: 240123-BPUL-0002/240123-BPUL-00021252.png
+   Last Modified: Mon May 26 2025 17:03:27 GMT+0800 (Taipei Standard Time)
+   Size: 287419 bytes
    Storage Class: STANDARD
-   ETag: "15168d3f9000c0d95692553256aa24d9"
+   ETag: "73db38dca148d4d977d876ee2f0b20cf"
 
-13. Key: woop/SERV_030303_030303/fdfd.txt
-   Last Modified: Tue Apr 15 2025 23:59:04 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+13. Key: 240123-BPUL-0002/240123-BPUL-0002POSPowerSupply(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:28 GMT+0800 (Taipei Standard Time)
+   Size: 127348 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "cd102126dfa7dda0417247a39858a4ce"
 
-14. Key: woop/Travel App or Website Logo.png
-   Last Modified: Thu Mar 13 2025 16:27:11 GMT+0800 (China Standard Time)
-   Size: 35259 bytes
+14. Key: 240123-BPUL-0002/240123-BPUL-0002POSSim(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:29 GMT+0800 (Taipei Standard Time)
+   Size: 91289 bytes
    Storage Class: STANDARD
-   ETag: "7a78831841075e92f5a65d253d49d111"
+   ETag: "9610ae9e23c74e1d2a90135354ddaf01"
 
-15. Key: woop/Travel_App_or_Website_Logo-removebg-preview.png
-   Last Modified: Thu Mar 13 2025 16:27:11 GMT+0800 (China Standard Time)
-   Size: 142271 bytes
+15. Key: 240123-BPUL-0002/240123-BPUL-0002POSTerminal(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:29 GMT+0800 (Taipei Standard Time)
+   Size: 137680 bytes
    Storage Class: STANDARD
-   ETag: "aeb7883bbfb2fb06cc850876f255edbb"
+   ETag: "0f526f75e0c25879d58712db62f7ea88"
 
-16. Key: woop/WERE_TEST/New Text Document.txt
-   Last Modified: Tue Apr 15 2025 23:59:04 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+16. Key: 240123-BPUL-0002/FESignature.jpg
+   Last Modified: Mon May 26 2025 17:03:30 GMT+0800 (Taipei Standard Time)
+   Size: 35996 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "5de33e520d91daee0bc98bcedc50d50c"
 
-17. Key: woop/basill.txt
-   Last Modified: Thu Mar 13 2025 17:12:10 GMT+0800 (China Standard Time)
-   Size: 17452 bytes
+17. Key: 240123-BPUL-0002/MerchantSignature.jpg
+   Last Modified: Mon May 26 2025 17:03:30 GMT+0800 (Taipei Standard Time)
+   Size: 37586 bytes
    Storage Class: STANDARD
-   ETag: "c43b9c86484130438713d3dd495d3ec9"
+   ETag: "01e2112df29558f9a0441e79233e85c1"
 
-18. Key: woop/bbbbbb.txt
-   Last Modified: Fri Mar 14 2025 10:02:40 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+18. Key: 240123-BPUL-0003/240123-BPUL-00031237.png
+   Last Modified: Mon May 26 2025 17:03:31 GMT+0800 (Taipei Standard Time)
+   Size: 267605 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "34be6e9c5dac328870b319df60f7ffd8"
 
-19. Key: woop/cvxvxvdf.txt
-   Last Modified: Thu Mar 13 2025 14:44:36 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+19. Key: 240123-BPUL-0003/240123-BPUL-00031246.png
+   Last Modified: Mon May 26 2025 17:03:32 GMT+0800 (Taipei Standard Time)
+   Size: 292271 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "c20e4034211fab53d397502ab526fd03"
 
-20. Key: woop/dfdfdfd.txt
-   Last Modified: Tue Apr 15 2025 23:59:03 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+20. Key: 240123-BPUL-0003/240123-BPUL-000372507359.png
+   Last Modified: Mon May 26 2025 17:03:34 GMT+0800 (Taipei Standard Time)
+   Size: 525544 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "d2e9a431e75eb09a47b1c82199f00799"
 
-21. Key: woop/erere/New Text Document.txt
-   Last Modified: Tue Apr 15 2025 23:59:03 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+21. Key: 240123-BPUL-0003/240123-BPUL-000372507361.png
+   Last Modified: Mon May 26 2025 17:03:36 GMT+0800 (Taipei Standard Time)
+   Size: 563396 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "e696e97aedf89bc979e4ebecc6c96383"
 
-22. Key: woop/ewewewewewew.txt
-   Last Modified: Thu Mar 13 2025 14:42:36 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+22. Key: 240123-BPUL-0003/240123-BPUL-0003POSPowerSupply(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:38 GMT+0800 (Taipei Standard Time)
+   Size: 141334 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "ca9199942142c9b5042d32f05c0a8083"
 
-23. Key: woop/fdfdfdfd/fdffreve.txt
-   Last Modified: Tue Apr 15 2025 23:59:03 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+23. Key: 240123-BPUL-0003/240123-BPUL-0003POSSim(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:39 GMT+0800 (Taipei Standard Time)
+   Size: 93936 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "99b74682bc32be41303b088292777a72"
 
-24. Key: woop/fdsgfdsgfdsgfds.txt
-   Last Modified: Fri Mar 14 2025 11:00:41 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+24. Key: 240123-BPUL-0003/240123-BPUL-0003POSTerminal(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:39 GMT+0800 (Taipei Standard Time)
+   Size: 131622 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "28a0127a78eb5250e69176355a5c6aa7"
 
-25. Key: woop/ffff.txt
-   Last Modified: Fri Mar 14 2025 10:40:40 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+25. Key: 240123-BPUL-0003/FESignature.jpg
+   Last Modified: Mon May 26 2025 17:03:40 GMT+0800 (Taipei Standard Time)
+   Size: 39236 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "d441c6105c4603f0d88a444c9effffab"
 
-26. Key: woop/fvffrbrtb.txt
-   Last Modified: Tue Apr 15 2025 23:59:03 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+26. Key: 240123-BPUL-0003/MerchantSignature.jpg
+   Last Modified: Mon May 26 2025 17:03:40 GMT+0800 (Taipei Standard Time)
+   Size: 38038 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "bdfa7250874223f996647cd1c0f32d77"
 
-27. Key: woop/gggggg.txt
-   Last Modified: Thu Mar 13 2025 16:27:10 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+27. Key: 240123-BPUL-0005/240123-BPUL-0005825.png
+   Last Modified: Mon May 26 2025 17:03:41 GMT+0800 (Taipei Standard Time)
+   Size: 223801 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "19ee0ba459e1a33e81e4206cb8ecc5c7"
 
-28. Key: woop/hgmhgmhgmhgmm.txt
-   Last Modified: Fri Mar 14 2025 11:02:41 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+28. Key: 240123-BPUL-0005/240123-BPUL-0005POSPowerSupply(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:42 GMT+0800 (Taipei Standard Time)
+   Size: 108895 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "d6226935a2d9854b44d8388c60b42173"
 
-29. Key: woop/logoLakbay.png
-   Last Modified: Fri Mar 14 2025 11:13:41 GMT+0800 (China Standard Time)
-   Size: 44693 bytes
+29. Key: 240123-BPUL-0005/240123-BPUL-0005POSSim(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:42 GMT+0800 (Taipei Standard Time)
+   Size: 99789 bytes
    Storage Class: STANDARD
-   ETag: "27bdd10de4199e873e0620e1f5d7a8ae"
+   ETag: "5220ae173db68e38269f161cfd98513e"
 
-30. Key: woop/opopopo.txt
-   Last Modified: Fri Mar 14 2025 08:45:39 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+30. Key: 240123-BPUL-0005/240123-BPUL-0005POSTerminal(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:43 GMT+0800 (Taipei Standard Time)
+   Size: 127522 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "6eb83627216e09a05b424d7b2d814d10"
 
-31. Key: woop/rrreere/rerer.txt
-   Last Modified: Tue Apr 15 2025 23:59:04 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+31. Key: 240123-BPUL-0005/FESignature.jpg
+   Last Modified: Mon May 26 2025 17:03:43 GMT+0800 (Taipei Standard Time)
+   Size: 43992 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "2fcdf3422a2a5207858c277eb4830583"
 
-32. Key: woop/rrrrrr.txt
-   Last Modified: Thu Mar 13 2025 16:42:10 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+32. Key: 240123-BPUL-0005/MerchantSignature.jpg
+   Last Modified: Mon May 26 2025 17:03:44 GMT+0800 (Taipei Standard Time)
+   Size: 28716 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "4ead674d21198523490bd07f69be7f83"
 
-33. Key: woop/rtrtrt.txt
-   Last Modified: Fri Mar 14 2025 08:35:39 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+33. Key: 240123-BPUL-0006/240123-BPUL-0006821.png
+   Last Modified: Mon May 26 2025 17:03:44 GMT+0800 (Taipei Standard Time)
+   Size: 224082 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "e970f9e307e17176c327d083254a3d24"
 
-34. Key: woop/sasadsad.txt
-   Last Modified: Thu Mar 13 2025 17:14:10 GMT+0800 (China Standard Time)
-   Size: 17452 bytes
+34. Key: 240123-BPUL-0006/240123-BPUL-0006POSPowerSupply(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:46 GMT+0800 (Taipei Standard Time)
+   Size: 149434 bytes
    Storage Class: STANDARD
-   ETag: "c43b9c86484130438713d3dd495d3ec9"
+   ETag: "d2896a07cc6d03438865f6d3cd3ee50b"
 
-35. Key: woop/terterter.txt
-   Last Modified: Fri Mar 14 2025 10:33:40 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+35. Key: 240123-BPUL-0006/240123-BPUL-0006POSSim(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:48 GMT+0800 (Taipei Standard Time)
+   Size: 101571 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "3a3b6d12b4eb838f831864967b17462f"
 
-36. Key: woop/tetetet_tetes/tettss.txt
-   Last Modified: Tue Apr 15 2025 23:59:04 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+36. Key: 240123-BPUL-0006/240123-BPUL-0006POSTerminal(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:50 GMT+0800 (Taipei Standard Time)
+   Size: 119144 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "f7709913f8e6084c91538d5d94d3de46"
 
-37. Key: woop/vvvvv.txt
-   Last Modified: Fri Mar 14 2025 13:09:10 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+37. Key: 240123-BPUL-0006/FESignature.jpg
+   Last Modified: Mon May 26 2025 17:03:50 GMT+0800 (Taipei Standard Time)
+   Size: 41192 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "9a1884ab34677f3125de0ab25e909185"
 
-38. Key: woop/woopper/
-   Last Modified: Thu Mar 13 2025 10:27:24 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+38. Key: 240123-BPUL-0006/MerchantSignature.jpg
+   Last Modified: Mon May 26 2025 17:03:51 GMT+0800 (Taipei Standard Time)
+   Size: 29059 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "eb9f8500df84ff610409742abeff0c47"
 
-39. Key: woop/woopper/bbbbbbb.txt
-   Last Modified: Thu Mar 13 2025 16:05:48 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+39. Key: 240123-BPUL-0007/240123-BPUL-0007819.png
+   Last Modified: Mon May 26 2025 17:03:52 GMT+0800 (Taipei Standard Time)
+   Size: 229234 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "40afacf03209e7c0197d8a6895c1adf7"
 
-40. Key: woop/woopper/ccccccc.txt
-   Last Modified: Thu Mar 13 2025 16:05:48 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+40. Key: 240123-BPUL-0007/240123-BPUL-0007POSPowerSupply(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:53 GMT+0800 (Taipei Standard Time)
+   Size: 109392 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "2c6d884e8548288349142cf1f1cfb426"
 
-41. Key: woop/woopper/dsadsafdsfds.txt
-   Last Modified: Thu Mar 13 2025 14:58:47 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+41. Key: 240123-BPUL-0007/240123-BPUL-0007POSSim(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:53 GMT+0800 (Taipei Standard Time)
+   Size: 101947 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "1cdf4eea56ad7e4a247dd91a5fd67441"
 
-42. Key: woop/woopper/er.txt
-   Last Modified: Thu Mar 13 2025 14:55:48 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+42. Key: 240123-BPUL-0007/240123-BPUL-0007POSTerminal(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:54 GMT+0800 (Taipei Standard Time)
+   Size: 138265 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "5c2bada381cd605b34f5128477bb69c7"
 
-43. Key: woop/woopper/euclid.txt
-   Last Modified: Thu Mar 13 2025 15:08:23 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+43. Key: 240123-BPUL-0007/FESignature.jpg
+   Last Modified: Mon May 26 2025 17:03:54 GMT+0800 (Taipei Standard Time)
+   Size: 38969 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "607528679fc0ad8184fce5a5bd933c96"
 
-44. Key: woop/woopper/ilililli/sfdasfdasda.txt
-   Last Modified: Thu Mar 13 2025 14:58:48 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+44. Key: 240123-BPUL-0007/MerchantSignature.jpg
+   Last Modified: Mon May 26 2025 17:03:55 GMT+0800 (Taipei Standard Time)
+   Size: 28606 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "5f737082a5db2a56e45e9661f51234a9"
 
-45. Key: woop/woopper/wsdsdsdsdsd.txt
-   Last Modified: Thu Mar 13 2025 16:05:48 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+45. Key: 240123-BPUL-0008/240123-BPUL-0008827.png
+   Last Modified: Mon May 26 2025 17:03:56 GMT+0800 (Taipei Standard Time)
+   Size: 231754 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "5fe67608c1681ba7e228250cc50245d9"
 
-46. Key: woop/yunnn.txt
-   Last Modified: Fri Mar 14 2025 10:53:41 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+46. Key: 240123-BPUL-0008/240123-BPUL-0008POSPowerSupply(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:57 GMT+0800 (Taipei Standard Time)
+   Size: 107804 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "939edb3a94669f2917441f54b6da7e98"
 
-47. Key: xcxcxcxcxc.txt
-   Last Modified: Thu Mar 13 2025 10:47:36 GMT+0800 (China Standard Time)
-   Size: 0 bytes
+47. Key: 240123-BPUL-0008/240123-BPUL-0008POSSim(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:03:59 GMT+0800 (Taipei Standard Time)
+   Size: 101599 bytes
    Storage Class: STANDARD
-   ETag: "d41d8cd98f00b204e9800998ecf8427e"
+   ETag: "bff86b39f773f539eaffa16f34beffed"
+
+48. Key: 240123-BPUL-0008/240123-BPUL-0008POSTerminal(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:04:00 GMT+0800 (Taipei Standard Time)
+   Size: 147318 bytes
+   Storage Class: STANDARD
+   ETag: "d160a82f3066e932a55cfbd2afeb231c"
+
+49. Key: 240123-BPUL-0008/FESignature.jpg
+   Last Modified: Mon May 26 2025 17:04:01 GMT+0800 (Taipei Standard Time)
+   Size: 39734 bytes
+   Storage Class: STANDARD
+   ETag: "c308dce8bd10ae122020706ea7487e4c"
+
+50. Key: 240123-BPUL-0008/MerchantSignature.jpg
+   Last Modified: Mon May 26 2025 17:04:02 GMT+0800 (Taipei Standard Time)
+   Size: 28495 bytes
+   Storage Class: STANDARD
+   ETag: "4a52c9fca0946b58278764cafefceee8"
+
+51. Key: 240123-BPUL-0009/240123-BPUL-0009829.png
+   Last Modified: Mon May 26 2025 17:04:03 GMT+0800 (Taipei Standard Time)
+   Size: 212965 bytes
+   Storage Class: STANDARD
+   ETag: "d09b8f47cc4e0151e8ea50bf83e26278"
+
+52. Key: 240123-BPUL-0009/240123-BPUL-0009POSPowerSupply(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:04:04 GMT+0800 (Taipei Standard Time)
+   Size: 135727 bytes
+   Storage Class: STANDARD
+   ETag: "1f427029b02cb81c0ba076cb5e3fdcdd"
+
+53. Key: 240123-BPUL-0009/240123-BPUL-0009POSSim(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:04:04 GMT+0800 (Taipei Standard Time)
+   Size: 90266 bytes
+   Storage Class: STANDARD
+   ETag: "2b0b6a77765eeae953d8e8def6f2f46f"
+
+54. Key: 240123-BPUL-0009/240123-BPUL-0009POSTerminal(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:04:05 GMT+0800 (Taipei Standard Time)
+   Size: 144403 bytes
+   Storage Class: STANDARD
+   ETag: "f6c55dd17128565f4564cac3e31dbada"
+
+55. Key: 240123-BPUL-0009/FESignature.jpg
+   Last Modified: Mon May 26 2025 17:04:05 GMT+0800 (Taipei Standard Time)
+   Size: 36266 bytes
+   Storage Class: STANDARD
+   ETag: "734a690efd2c40c588c9845ac6017fd9"
+
+56. Key: 240123-BPUL-0009/MerchantSignature.jpg
+   Last Modified: Mon May 26 2025 17:04:06 GMT+0800 (Taipei Standard Time)
+   Size: 29253 bytes
+   Storage Class: STANDARD
+   ETag: "a7adab5dce1b7e69e9c48571a445fc10"
+
+57. Key: 240123-BPUL-0010/240123-BPUL-0010823.png
+   Last Modified: Mon May 26 2025 17:04:06 GMT+0800 (Taipei Standard Time)
+   Size: 220076 bytes
+   Storage Class: STANDARD
+   ETag: "c86e9843fcb214f7253d4d30331ba317"
+
+58. Key: 240123-BPUL-0010/240123-BPUL-0010POSPowerSupply(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:04:07 GMT+0800 (Taipei Standard Time)
+   Size: 147416 bytes
+   Storage Class: STANDARD
+   ETag: "38c4930a4b7491fc06dfcc4b7a1f5c06"
+
+59. Key: 240123-BPUL-0010/240123-BPUL-0010POSSim(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:04:10 GMT+0800 (Taipei Standard Time)
+   Size: 94188 bytes
+   Storage Class: STANDARD
+   ETag: "5b0eecd14bb22ff9c108bc20989e1b63"
+
+60. Key: 240123-BPUL-0010/240123-BPUL-0010POSTerminal(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:04:11 GMT+0800 (Taipei Standard Time)
+   Size: 132218 bytes
+   Storage Class: STANDARD
+   ETag: "a0092ca903e286d1132b4e1b3e58845d"
+
+61. Key: 240123-BPUL-0010/FESignature.jpg
+   Last Modified: Mon May 26 2025 17:04:13 GMT+0800 (Taipei Standard Time)
+   Size: 42297 bytes
+   Storage Class: STANDARD
+   ETag: "754245084ca08162b3873002942f49e5"
+
+62. Key: 240123-BPUL-0010/MerchantSignature.jpg
+   Last Modified: Mon May 26 2025 17:04:13 GMT+0800 (Taipei Standard Time)
+   Size: 30760 bytes
+   Storage Class: STANDARD
+   ETag: "b21c5a807658051fd6803d306d94f6ae"
+
+63. Key: 240123-BSER-0001/20240225144638660.pdf
+   Last Modified: Mon May 26 2025 17:04:14 GMT+0800 (Taipei Standard Time)
+   Size: 382716 bytes
+   Storage Class: STANDARD
+   ETag: "7da51b298649083e097415c82d6947b7"
+
+64. Key: 240123-BSER-0001/20240225144648535.jpg
+   Last Modified: Mon May 26 2025 17:04:16 GMT+0800 (Taipei Standard Time)
+   Size: 2428877 bytes
+   Storage Class: STANDARD
+   ETag: "e9ebb5bbfcc82516255a788f24844b2a"
+
+65. Key: 240123-BSER-0001/20240225144653457.jpg
+   Last Modified: Mon May 26 2025 17:04:18 GMT+0800 (Taipei Standard Time)
+   Size: 2428877 bytes
+   Storage Class: STANDARD
+   ETag: "e9ebb5bbfcc82516255a788f24844b2a"
+
+66. Key: 240123-BSER-0001/20240225144701645.jpg
+   Last Modified: Mon May 26 2025 17:04:20 GMT+0800 (Taipei Standard Time)
+   Size: 2487552 bytes
+   Storage Class: STANDARD
+   ETag: "fec10ebe736ac436602dae2aeaa8e11b"
+
+67. Key: 240123-BSER-0001/20240225144709083.jpg
+   Last Modified: Mon May 26 2025 17:04:24 GMT+0800 (Taipei Standard Time)
+   Size: 3112860 bytes
+   Storage Class: STANDARD
+   ETag: "5034704e846a2da6aa60317c5d92398d"
+
+68. Key: 240123-BSER-0001/20240225144716708.jpg
+   Last Modified: Mon May 26 2025 17:04:27 GMT+0800 (Taipei Standard Time)
+   Size: 3267545 bytes
+   Storage Class: STANDARD
+   ETag: "ca7386d6d496ac4c9b9df2a8c023339b"
+
+69. Key: 240123-BSER-0002/20240225150303790.pdf
+   Last Modified: Mon May 26 2025 17:04:31 GMT+0800 (Taipei Standard Time)
+   Size: 402893 bytes
+   Storage Class: STANDARD
+   ETag: "281b632765b64b502154b3e9e706151e"
+
+70. Key: 240123-BSER-0002/20240225150309056.jpg
+   Last Modified: Mon May 26 2025 17:04:32 GMT+0800 (Taipei Standard Time)
+   Size: 2341996 bytes
+   Storage Class: STANDARD
+   ETag: "50e35e1e998fd969314a377373d1b843"
+
+71. Key: 240123-BSER-0002/20240225150314478.jpg
+   Last Modified: Mon May 26 2025 17:04:34 GMT+0800 (Taipei Standard Time)
+   Size: 3275312 bytes
+   Storage Class: STANDARD
+   ETag: "8c8b7bdaffaed970ddfeb1c7cb245199"
+
+72. Key: 240123-BSER-0003/240123-BSER-00035930.png
+   Last Modified: Mon May 26 2025 17:04:39 GMT+0800 (Taipei Standard Time)
+   Size: 246612 bytes
+   Storage Class: STANDARD
+   ETag: "3d311df9b5b35989bc1a678c6b5ccfc9"
+
+73. Key: 240123-BSER-0003/240123-BSER-00037251571.png
+   Last Modified: Mon May 26 2025 17:04:40 GMT+0800 (Taipei Standard Time)
+   Size: 576626 bytes
+   Storage Class: STANDARD
+   ETag: "3d9599a1cbc194e43f23b08efda31240"
+
+74. Key: 240123-BSER-0003/240123-BSER-0003725157129.png
+   Last Modified: Mon May 26 2025 17:04:41 GMT+0800 (Taipei Standard Time)
+   Size: 522411 bytes
+   Storage Class: STANDARD
+   ETag: "efd6bff8a380379aa8cdba93036403c3"
+
+75. Key: 240123-BSER-0003/240123-BSER-000372515713.png
+   Last Modified: Mon May 26 2025 17:04:41 GMT+0800 (Taipei Standard Time)
+   Size: 514947 bytes
+   Storage Class: STANDARD
+   ETag: "a88bd178bf47e0ac917ffdfe9d4fa54c"
+
+76. Key: 240123-BSER-0003/240123-BSER-00037251573.png
+   Last Modified: Mon May 26 2025 17:04:42 GMT+0800 (Taipei Standard Time)
+   Size: 561648 bytes
+   Storage Class: STANDARD
+   ETag: "1d614c8fb2e3e8942dc52202bd82656a"
+
+77. Key: 240123-BSER-0003/240123-BSER-00037251575.png
+   Last Modified: Mon May 26 2025 17:04:43 GMT+0800 (Taipei Standard Time)
+   Size: 469187 bytes
+   Storage Class: STANDARD
+   ETag: "903baad45445f218ce066cdeef97948b"
+
+78. Key: 240123-BSER-0003/240123-BSER-000372515759.png
+   Last Modified: Mon May 26 2025 17:04:45 GMT+0800 (Taipei Standard Time)
+   Size: 535626 bytes
+   Storage Class: STANDARD
+   ETag: "af830f3db29d6482ffe250aa05117d78"
+
+79. Key: 240123-BSER-0003/240123-BSER-000372515761.png
+   Last Modified: Mon May 26 2025 17:04:46 GMT+0800 (Taipei Standard Time)
+   Size: 506352 bytes
+   Storage Class: STANDARD
+   ETag: "de2eb64f62e442150cbd1c93d6b09fea"
+
+80. Key: 240123-BSER-0003/240123-BSER-00037251577.png
+   Last Modified: Mon May 26 2025 17:04:47 GMT+0800 (Taipei Standard Time)
+   Size: 507483 bytes
+   Storage Class: STANDARD
+   ETag: "2005a041f8e3f8e31ebe8b572e431eb2"
+
+81. Key: 240123-BSER-0003/240123-BSER-00037251579.png
+   Last Modified: Mon May 26 2025 17:04:49 GMT+0800 (Taipei Standard Time)
+   Size: 518282 bytes
+   Storage Class: STANDARD
+   ETag: "cb49b08d9ee3b93b1b0c84839df66230"
+
+82. Key: 240123-BSER-0003/240123-BSER-0003POSPowerSupply(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:04:50 GMT+0800 (Taipei Standard Time)
+   Size: 114682 bytes
+   Storage Class: STANDARD
+   ETag: "f082b265f6d4aa889abb9a5f81c5e15e"
+
+83. Key: 240123-BSER-0003/240123-BSER-0003POSTerminal(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:04:50 GMT+0800 (Taipei Standard Time)
+   Size: 133989 bytes
+   Storage Class: STANDARD
+   ETag: "a1c3db940977b201dc534268277629a4"
+
+84. Key: 240123-BSER-0003/FESignature.jpg
+   Last Modified: Mon May 26 2025 17:04:51 GMT+0800 (Taipei Standard Time)
+   Size: 42305 bytes
+   Storage Class: STANDARD
+   ETag: "25567139739fe1709b81b8a4871cc9b0"
+
+85. Key: 240123-BSER-0003/MerchantSignature.jpg
+   Last Modified: Mon May 26 2025 17:04:51 GMT+0800 (Taipei Standard Time)
+   Size: 58008 bytes
+   Storage Class: STANDARD
+   ETag: "7b23d9eadd2e584da07f7a1a603eb5be"
+
+86. Key: 240123-BSER-0004/240123-BSER-00045937.png
+   Last Modified: Mon May 26 2025 17:04:52 GMT+0800 (Taipei Standard Time)
+   Size: 295521 bytes
+   Storage Class: STANDARD
+   ETag: "70a980d48c5fbe2ec87d53e3485e4b80"
+
+87. Key: 240123-BSER-0004/240123-BSER-00047251591.png
+   Last Modified: Mon May 26 2025 17:04:53 GMT+0800 (Taipei Standard Time)
+   Size: 501071 bytes
+   Storage Class: STANDARD
+   ETag: "c40f61eaae9756b2f3177d90f9560727"
+
+88. Key: 240123-BSER-0004/240123-BSER-0004725159129.png
+   Last Modified: Mon May 26 2025 17:04:54 GMT+0800 (Taipei Standard Time)
+   Size: 478245 bytes
+   Storage Class: STANDARD
+   ETag: "50c097d56bd5e0ffdb875b4fa90eecb1"
+
+89. Key: 240123-BSER-0004/240123-BSER-000472515913.png
+   Last Modified: Mon May 26 2025 17:04:55 GMT+0800 (Taipei Standard Time)
+   Size: 472405 bytes
+   Storage Class: STANDARD
+   ETag: "0f50616eb035cc1bca8e3a2460289445"
+
+90. Key: 240123-BSER-0004/240123-BSER-00047251593.png
+   Last Modified: Mon May 26 2025 17:04:57 GMT+0800 (Taipei Standard Time)
+   Size: 495801 bytes
+   Storage Class: STANDARD
+   ETag: "a101eff6eb4529697b0e39505f0698e8"
+
+91. Key: 240123-BSER-0004/240123-BSER-00047251595.png
+   Last Modified: Mon May 26 2025 17:04:58 GMT+0800 (Taipei Standard Time)
+   Size: 534114 bytes
+   Storage Class: STANDARD
+   ETag: "7b2840913ef4f82a3f44acd5cc8bb17f"
+
+92. Key: 240123-BSER-0004/240123-BSER-000472515959.png
+   Last Modified: Mon May 26 2025 17:04:59 GMT+0800 (Taipei Standard Time)
+   Size: 516292 bytes
+   Storage Class: STANDARD
+   ETag: "d683b9feb420bca89f78d39dac25794d"
+
+93. Key: 240123-BSER-0004/240123-BSER-000472515961.png
+   Last Modified: Mon May 26 2025 17:05:01 GMT+0800 (Taipei Standard Time)
+   Size: 487510 bytes
+   Storage Class: STANDARD
+   ETag: "ccd1da7b45f161f75c60ca34ecfdb03c"
+
+94. Key: 240123-BSER-0004/240123-BSER-00047251597.png
+   Last Modified: Mon May 26 2025 17:05:02 GMT+0800 (Taipei Standard Time)
+   Size: 626994 bytes
+   Storage Class: STANDARD
+   ETag: "4d8414880ce5dbd3ae9cc3d734b64f0d"
+
+95. Key: 240123-BSER-0004/240123-BSER-00047251599.png
+   Last Modified: Mon May 26 2025 17:05:03 GMT+0800 (Taipei Standard Time)
+   Size: 499114 bytes
+   Storage Class: STANDARD
+   ETag: "4490a2e1c3ba27328e04804ac07f756a"
+
+96. Key: 240123-BSER-0004/240123-BSER-0004POSPowerSupply(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:05:04 GMT+0800 (Taipei Standard Time)
+   Size: 146858 bytes
+   Storage Class: STANDARD
+   ETag: "1e2c923d3651382d82dd7b2757ee639d"
+
+97. Key: 240123-BSER-0004/240123-BSER-0004POSTerminal(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:05:05 GMT+0800 (Taipei Standard Time)
+   Size: 146217 bytes
+   Storage Class: STANDARD
+   ETag: "745743c02d3e8167ab723fa82b9faefe"
+
+98. Key: 240123-BSER-0004/FESignature.jpg
+   Last Modified: Mon May 26 2025 17:05:05 GMT+0800 (Taipei Standard Time)
+   Size: 43913 bytes
+   Storage Class: STANDARD
+   ETag: "a331bba865d6f2180dce0cf1b075c552"
+
+99. Key: 240123-BSER-0004/MerchantSignature.jpg
+   Last Modified: Mon May 26 2025 17:05:06 GMT+0800 (Taipei Standard Time)
+   Size: 59567 bytes
+   Storage Class: STANDARD
+   ETag: "06d820496f91c73dcfed2902ab74b8e0"
+
+100. Key: 240123-BSER-0005/240123-BSER-00055932.png
+   Last Modified: Mon May 26 2025 17:05:07 GMT+0800 (Taipei Standard Time)
+   Size: 289422 bytes
+   Storage Class: STANDARD
+   ETag: "c11e5d448484ffe464ecc9c3baf9e6a9"
+
+101. Key: 240123-BSER-0005/240123-BSER-00057251611.png
+   Last Modified: Mon May 26 2025 17:05:08 GMT+0800 (Taipei Standard Time)
+   Size: 482856 bytes
+   Storage Class: STANDARD
+   ETag: "bf79828d50e223493ee4d9a590d8615b"
+
+102. Key: 240123-BSER-0005/240123-BSER-0005725161129.png
+   Last Modified: Mon May 26 2025 17:05:09 GMT+0800 (Taipei Standard Time)
+   Size: 502414 bytes
+   Storage Class: STANDARD
+   ETag: "64ff05d671090f1da37e68c8e12c78ee"
+
+103. Key: 240123-BSER-0005/240123-BSER-000572516113.png
+   Last Modified: Mon May 26 2025 17:05:11 GMT+0800 (Taipei Standard Time)
+   Size: 489066 bytes
+   Storage Class: STANDARD
+   ETag: "63a2bb5b124df3acb875499c8be0a1e3"
+
+104. Key: 240123-BSER-0005/240123-BSER-00057251613.png
+   Last Modified: Mon May 26 2025 17:05:12 GMT+0800 (Taipei Standard Time)
+   Size: 507578 bytes
+   Storage Class: STANDARD
+   ETag: "159f1cd795a144c6f305b41d3823e828"
+
+105. Key: 240123-BSER-0005/240123-BSER-00057251615.png
+   Last Modified: Mon May 26 2025 17:05:13 GMT+0800 (Taipei Standard Time)
+   Size: 478318 bytes
+   Storage Class: STANDARD
+   ETag: "eca732da7ca406e2d93d9bc616911c83"
+
+106. Key: 240123-BSER-0005/240123-BSER-000572516159.png
+   Last Modified: Mon May 26 2025 17:05:14 GMT+0800 (Taipei Standard Time)
+   Size: 551942 bytes
+   Storage Class: STANDARD
+   ETag: "c73e1756577d17f570e460d3bc4bb2e7"
+
+107. Key: 240123-BSER-0005/240123-BSER-000572516161.png
+   Last Modified: Mon May 26 2025 17:05:15 GMT+0800 (Taipei Standard Time)
+   Size: 479703 bytes
+   Storage Class: STANDARD
+   ETag: "6bcb3f98a7bcd3d3effdf39eba7a0e9c"
+
+108. Key: 240123-BSER-0005/240123-BSER-00057251617.png
+   Last Modified: Mon May 26 2025 17:05:16 GMT+0800 (Taipei Standard Time)
+   Size: 487762 bytes
+   Storage Class: STANDARD
+   ETag: "71de41c58a14a7b636525f381375a083"
+
+109. Key: 240123-BSER-0005/240123-BSER-00057251619.png
+   Last Modified: Mon May 26 2025 17:05:17 GMT+0800 (Taipei Standard Time)
+   Size: 574483 bytes
+   Storage Class: STANDARD
+   ETag: "a8f0e0eef9c8ddba584a26248c35b5ee"
+
+110. Key: 240123-BSER-0005/240123-BSER-0005POSPowerSupply(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:05:19 GMT+0800 (Taipei Standard Time)
+   Size: 136996 bytes
+   Storage Class: STANDARD
+   ETag: "bb6d87d45c554440558669596a15d1e8"
+
+111. Key: 240123-BSER-0005/240123-BSER-0005POSTerminal(FoundSerial).png
+   Last Modified: Mon May 26 2025 17:05:20 GMT+0800 (Taipei Standard Time)
+   Size: 129407 bytes
+   Storage Class: STANDARD
+   ETag: "fcb8bdce5adf3debb24f2c82e9d21512"
+
+112. Key: 240123-BSER-0005/FESignature.jpg
+   Last Modified: Mon May 26 2025 17:05:20 GMT+0800 (Taipei Standard Time)
+   Size: 46847 bytes
+   Storage Class: STANDARD
+   ETag: "6945d740de351e53cd4b7dd5955c3a4d"
+
+113. Key: 240123-BSER-0005/MerchantSignature.jpg
+   Last Modified: Mon May 26 2025 17:05:21 GMT+0800 (Taipei Standard Time)
+   Size: 51082 bytes
+   Storage Class: STANDARD
+   ETag: "996048c48e02ed3112a8357c1f7f81b5"
+
+114. Key: upload_receipt.txt
+   Last Modified: Mon May 26 2025 17:05:21 GMT+0800 (Taipei Standard Time)
+   Size: 427 bytes
+   Storage Class: STANDARD
+   ETag: "c180d6467e59f32b25c680f2d5d26ceb"
 
